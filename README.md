@@ -2,6 +2,10 @@
 
 An AI-powered web application that acts as a **Virtual Materials Scientist**, helping engineers and designers choose the most suitable material based on natural language requirements.
 
+## Live Demo
+
+[Click Here to Try](https://materialrecommender-pfcqyzmocv2qbw78zmmjae.streamlit.app)
+
 ## Features
 
 - Accepts engineering/material requirements in plain English
